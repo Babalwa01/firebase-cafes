@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Babalwa01/firebase-cafes/issues"
   },
-  "homepage": "https://github.com/Babalwa01/firebase-cafes#readme"
+  "homepage": "https://github.com/Babalwa01/firebase-cafes#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
